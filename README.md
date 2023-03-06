@@ -29,3 +29,5 @@ Main topics:
 - Algebraic and logical operations
 
 - Exercises
+
+## Lecture 3
